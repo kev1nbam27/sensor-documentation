@@ -207,7 +207,6 @@ strong {
     font-size: 48px;
     font-weight: 300;
     margin-bottom: 0;
-    text-transform: capitalize;
     padding-bottom: 0;
 }
 
@@ -258,10 +257,6 @@ h4 a {
     color: #030303;
     font-weight: 400;
     font-size: 16px;
-}
-
-.lead {
-    text-transform: capitalize;
 }
 
 .left-align img {
