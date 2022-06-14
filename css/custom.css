@@ -104,6 +104,42 @@ html #mode .dark {
     display: none;
 }
 
+/*Lang*/
+
+#lang {
+    cursor: pointer;
+    position: fixed;
+    left: 16px;
+    top: 0px;
+    z-index: 1;
+    border-radius: 16px;
+    line-height: 0;
+}
+
+#lang p {
+    width: 20px;
+    padding: 12px;
+    box-sizing: content-box;
+    font-size: large;
+    font-weight: bold;
+}
+
+html.en #lang .de {
+    display: none;
+}
+
+html #lang .de {
+    display: block;
+}
+
+html.en #lang .en {
+    display: block;
+}
+
+html #lang .en {
+    display: none;
+}
+
 /*Docs*/
 
 .body {

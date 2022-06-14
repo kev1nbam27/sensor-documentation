@@ -83,6 +83,10 @@ p {
     margin-top: 15px;
 }
 
+.justified-text {
+    text-align: justify;
+}
+
 img.aligncenter {
     display: block;
     text-align: center;
