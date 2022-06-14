@@ -40,6 +40,7 @@ h6 {
     font-weight: normal;
     line-height: 1.8;
     color: #242424;
+    font-family: 'Droid Serif', Georgia, "Times New Roman", serif;
 }
 
 h1 {
@@ -76,11 +77,12 @@ h6 a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 17px !important;
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0;
     margin-top: 15px;
+    font-family: 'Droid Serif', Georgia, "Times New Roman", serif;
 }
 
 .justified-text {
@@ -100,6 +102,7 @@ img.aligncenter {
 ul {
     padding: 0;
     list-style: none;
+    font-family: 'Droid Serif', Georgia, "Times New Roman", serif;
 }
 
 ol li ul li {
